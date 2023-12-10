@@ -3,7 +3,7 @@
 ## Our Team
 |          ID Bangkit         | Nama |       Path       |
 |:---------------------:|:----------:|:----------------:|
-|    M314BSX1595      |  Farah Fadila Rahman  |      Mobile Development     |
+|    M314BSX1595      |  Farah Fadila Rahman  |      Machine Learning     |
 |   M535BSY0339    |  Endang Prayoga Hidayatulloh  |  Machine Learning |
 |  M109BSY0277  |  Rafi Maulana Azhar  | Machine Learning |
 |  C535BSY3141  |  Husni Mubarok  | Cloud Computing |

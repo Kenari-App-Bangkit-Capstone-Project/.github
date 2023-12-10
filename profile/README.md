@@ -1,4 +1,4 @@
-# Kenari App - Bangkit Academy 2023 Capstone Project by CH2-PS130
+# Kenari App - Bangkit Academy 2023 Capstone by CH2-PS130
 
 ## Our Team
 |          ID Bangkit         | Nama |       Path       |

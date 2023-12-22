@@ -47,4 +47,4 @@
 </details>
 
 ## App Installation
-Download and install beta app [here](https://github.com/SelidikPasar/Selasar-AndroidDevelopment/releases/download/beta-release-v1/selasar.apk)
+Download and install beta app [here](https://github.com/Kenari-App-Bangkit-Capstone-Project/Kenari-MD/releases/download/v1.0.0/app-release.apk)

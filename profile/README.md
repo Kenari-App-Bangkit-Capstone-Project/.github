@@ -10,15 +10,15 @@
 
 <div align="center">
 
-|   Student ID   |           Name            |          Learning Path           |
-|:--------------:|:-------------------------:|:------------------------:|
-| M314BSX1595    | Farah Fadila Rahman       | Machine Learning         |
-| M535BSY0339    | Endang Prayoga Hidayatulloh| Machine Learning         |
-| M109BSY0277    | Rafi Maulana Azhar        | Machine Learning         |
-| C535BSY3141    | Husni Mubarok              | Cloud Computing          |
-| C575BSX3814    | Dyna Akmila                | Cloud Computing          |
-| A171BSY2776    | Ikbal Muhamad Firdaus     | Mobile Development       |
-| A193BSY2444    | Rio Bedika Sadewa          | Mobile Development       |
+|   Student ID   |           Name            |          Learning Path    |          Contact        |
+|:--------------:|:-------------------------:|:------------------------:|:------------------------:|
+| M314BSX1595    | Farah Fadila Rahman       | Machine Learning         | <a href="https://www.linkedin.com/in/farahfadilar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| M535BSY0339    | Endang Prayoga Hidayatulloh| Machine Learning         | <a href="https://id.linkedin.com/in/endang-prayoga-hidayatulloh-0ab785217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | 
+| M109BSY0277    | Rafi Maulana Azhar        | Machine Learning         | <a href="https://www.linkedin.com/in/rafi-maulana-azhar-79ba21259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| C535BSY3141    | Husni Mubarok              | Cloud Computing          | <a href="https://www.linkedin.com/in/husni-picors-1ba742217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| C575BSX3814    | Dyna Akmila                | Cloud Computing          | <a href="https://www.linkedin.com/in/dyna-akmila/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| A171BSY2776    | Ikbal Muhamad Firdaus     | Mobile Development       | <a href="https://www.linkedin.com/in/ikbal-muhamad-firdaus-4075021b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| A193BSY2444    | Rio Bedika Sadewa          | Mobile Development       | <a href="https://www.linkedin.com/in/rio-bedika-sadewa-b5672329b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
 
 </div>
 

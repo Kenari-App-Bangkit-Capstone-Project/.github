@@ -37,11 +37,11 @@
 
 
 ## Application Architecture
-<div align="center" ><img src="https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/app_structure.png?raw=true" height="400px"></div>
+![Application Architecture](https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/app_structure.png?raw=true)
 
 ## Kenari APP User Interface
-<div align="center" ><img src="https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/kenariui1.png?raw=true" height="400px"></div>
-<div align="center" ><img src="https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/kenariui2.png?raw=true" height="400px"></div>
+![Application UI1](https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/kenariui1.png?raw=true)
+![Application UI2](https://github.com/Kenari-App-Bangkit-Capstone-Project/.github/blob/main/assets/kenariui2.png?raw=true)
   
 
 </details>

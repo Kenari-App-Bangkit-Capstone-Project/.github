@@ -10,7 +10,7 @@
 
 <div align="center">
 
-|   ID Bangkit   |           Nama            |           Path           |
+|   Student ID   |           Name            |           Path           |
 |:--------------:|:-------------------------:|:------------------------:|
 | M314BSX1595    | Farah Fadila Rahman       | Machine Learning         |
 | M535BSY0339    | Endang Prayoga Hidayatulloh| Machine Learning         |
